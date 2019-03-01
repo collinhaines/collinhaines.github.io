@@ -3,17 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://collinhaines.com/post/site/</loc>
+    <lastmod>2019-02-20T21:40:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collinhaines.com/about/</loc>
+    <lastmod>1994-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collinhaines.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://collinhaines.com/</loc>
+    <lastmod>2019-02-20T21:40:54-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://collinhaines.com/post/</loc>
+    <lastmod>2019-02-20T21:40:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collinhaines.com/tags/</loc>
     <priority>0</priority>
   </url>
   
